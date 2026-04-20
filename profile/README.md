@@ -1,53 +1,70 @@
 # Zweichain
 
-Zweichain is a blockchain and real-world asset infrastructure project developed by ZWEISPACE JAPAN and related initiatives.
+Zweichain is a real-world asset (RWA) and infrastructure-focused blockchain ecosystem.
 
-We work across:
+It integrates tokenized assets, registry systems, digital twin models, and AI-driven applications into a unified framework designed for real-world deployment.
 
-- **Blockchain infrastructure**
-- **Tokenized asset frameworks**
-- **Real estate and registry-related systems**
-- **Disaster resilience and seismic intelligence**
-- **Digital twin and verification-oriented applications**
+## Core Vision
 
-## Focus Areas
+Zweichain is designed not only as a general-purpose blockchain, but as an infrastructure layer for:
+
+- **Real estate and asset-backed tokenization (RWA)**
+- **Inheritance and ownership transfer systems**
+- **Digital twin representations of physical assets**
+- **Disaster resilience and seismic intelligence (Namazu)**
+- **AI-driven valuation, matching, and automation systems**
+
+## Architecture
 
 ### Chain / Infrastructure
-Core blockchain-related components, network logic, and supporting documentation.
+Core blockchain components and network logic.
 
 ### Asset & Token Layer
-Token projects and asset-linked frameworks developed within the Zweichain ecosystem.
+Token frameworks representing real-world assets and financial structures.
 
 ### Applications
-Practical systems built on top of the infrastructure, including registry, property, and data-driven applications.
+Operational systems built on top of Zweichain:
 
-### Research / Disaster Intelligence
-Projects related to earthquake analytics, structural data, and public-interest resilience systems.
+- AutoCalc (AI-based valuation)
+- AI Real Estate Agent (AI不動産屋)
+- Registry / ownership systems
+- Matching and transaction platforms
 
-## Highlighted Repositories
+### Smart Contract Layer
+Advanced contract logic including **Ohudokun**, designed for real-world transaction scenarios beyond standard ERC models.
+
+### Disaster Intelligence
+Namazu project for seismic data, structural analysis, and resilience modeling.
+
+## Positioning
+
+Zweichain focuses on **real-world integration**, where blockchain interacts with:
+
+- physical assets
+- legal ownership
+- financial systems
+- disaster and infrastructure data
+
+Rather than competing as a purely speculative or computational network, Zweichain is structured as an **asset-integrated infrastructure layer**.
+
+## Highlighted Projects
 
 - [NMZ-Namazu](https://github.com/zweichain/NMZ-Namazu)  
-  Namazu earthquake solution with industry, academia, and government alliance and contributors.
+  Seismic intelligence and disaster resilience system
 
 - [doc](https://github.com/zweichain/doc)  
-  Documentation and supporting references.
+  Documentation and references
 
-## Repository Policy
+## Notes
 
 Repositories in this organization may include:
 
-- active public projects
-- documentation repositories
-- early-stage research repositories
-- legacy or archived token experiments
+- active infrastructure components
+- applied systems
+- research-oriented projects
+- token frameworks
+- legacy or experimental repositories
 
-Where relevant, each repository should state:
-- purpose
-- status
-- relation to the Zweichain ecosystem
-- license
-- official or related links
-
-## Official Link
+## Official
 
 - https://zweichain.zweicoin.com

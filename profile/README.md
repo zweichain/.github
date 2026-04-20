@@ -1,68 +1,80 @@
 # Zweichain
 
-Zweichain is a real-world asset (RWA) and infrastructure-focused blockchain ecosystem.
+Zweichain is an infrastructure-focused blockchain for real-world assets (RWA), integrating asset tokenization, registry systems, and AI-driven applications.
 
-It integrates tokenized assets, registry systems, digital twin models, and AI-driven applications into a unified framework designed for real-world deployment.
+It is designed for direct interaction with physical assets, ownership structures, and real-world data, including seismic intelligence and digital twin systems.
 
 ## Core Vision
 
-Zweichain is designed not only as a general-purpose blockchain, but as an infrastructure layer for:
+Zweichain is built as a real-world infrastructure layer where blockchain interacts with:
 
-- **Real estate and asset-backed tokenization (RWA)**
-- **Inheritance and ownership transfer systems**
-- **Digital twin representations of physical assets**
-- **Disaster resilience and seismic intelligence (Namazu)**
-- **AI-driven valuation, matching, and automation systems**
+- physical assets
+- legal ownership
+- infrastructure and disaster data
+
+The system is actively developed alongside real-world applications in real estate, disaster resilience, and AI-driven platforms.
 
 ## Architecture
 
 ### Chain / Infrastructure
 Core blockchain components and network logic.
 
-### Asset & Token Layer
-Token frameworks representing real-world assets and financial structures.
+### Asset Framework
+
+Zweichain includes a structured asset framework composed of multiple token layers:
+
+- **STD (Studio)**  
+  Asset-linked token representing income-generating digital twin real estate units
+
+- **BLD (Build)**  
+  Development-oriented token for construction and asset transformation
+
+- **LT (Legal)**  
+  Legal and ownership-related token layer for rights, inheritance, and registry linkage
+
+- **NMZ (Namazu)**  
+  Seismic intelligence and disaster-related token integrated with physical-world data and infrastructure analysis
+
+These components form an integrated system for representing, managing, and transferring real-world assets on-chain.
 
 ### Applications
-Operational systems built on top of Zweichain:
 
 - AutoCalc (AI-based valuation)
 - AI Real Estate Agent (AI不動産屋)
-- Registry / ownership systems
-- Matching and transaction platforms
+- Matching and transaction systems
+- Registry / ownership platforms
 
 ### Smart Contract Layer
-Advanced contract logic including **Ohudokun**, designed for real-world transaction scenarios beyond standard ERC models.
+
+Zweichain introduces **Ohudokun**, an advanced smart contract framework designed for real-world transaction scenarios beyond conventional ERC-based logic.
 
 ### Disaster Intelligence
-Namazu project for seismic data, structural analysis, and resilience modeling.
+
+Namazu provides seismic data processing, structural analysis, and resilience modeling using real-world sensor data and AI.
 
 ## Positioning
 
-Zweichain focuses on **real-world integration**, where blockchain interacts with:
+Zweichain is designed as an infrastructure layer for real-world integration, where blockchain connects directly with:
 
-- physical assets
-- legal ownership
-- financial systems
-- disaster and infrastructure data
+- asset ownership
+- legal systems
+- physical and environmental data
 
-Rather than competing as a purely speculative or computational network, Zweichain is structured as an **asset-integrated infrastructure layer**.
+This approach differs from purely computational or speculative blockchain models, focusing instead on verifiable, asset-linked systems with practical deployment.
 
 ## Highlighted Projects
 
-- [NMZ-Namazu](https://github.com/zweichain/NMZ-Namazu)  
-  Seismic intelligence and disaster resilience system
-
-- [doc](https://github.com/zweichain/doc)  
-  Documentation and references
+- https://github.com/zweichain/NMZ-Namazu
+- https://github.com/zweichain/doc
 
 ## Notes
 
 Repositories in this organization may include:
 
-- active infrastructure components
+- infrastructure components
+- asset and token frameworks
 - applied systems
 - research-oriented projects
-- token frameworks
 - legacy or experimental repositories
 
 ## Official
